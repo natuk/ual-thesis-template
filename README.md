@@ -1,1 +1,2 @@
 # ual-thesis-template
+These files can be used as a starting point for writing your PhD thesis in the University of the Arts London. They require LyX and LaTeX which are open-source and available for all platforms. Open the thesis.lyx file and fill in your details. Then start editing the subsequent chapters. The chapter files are linked to the main thesis file. You can add new chapters by adding new branches. To create a new chapter it is highly recommended that create a copy of an existing chapter and modify it.
